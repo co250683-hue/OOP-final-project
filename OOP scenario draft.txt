@@ -1,0 +1,29 @@
+
+Scenario: The MC awakes in a room with two doors with words on them, then a pixie appears and tells the mc that they were given the task of giving clues that lead to the correct door so both can escape, if they pass all doors they escape with their life, if they get it wrong they die by the door they chose:
+
+The doors by sequence and the answers:
+room 1 doors: L Dog(/)/R Wolf(x)
+clue: They hunt in packs, their snouts are long, they can howl, they come in many breeds.
+death: A pack of wild wolves devour the MC, then they are asked if they want to try again or exit.
+
+room 2 doors: L Snow(/)/R Hail(x)
+clue: Made from clouds, descend lightly from the skies, creating layers of cold.
+death: Hail shoots out from the door pummeling the mc to death or exit.
+
+room 3 doors: L Tiger(x)/R Lion(/)
+clue: Majestic felines of golden coats, feared apex predators that reign over open plains.
+death: A starving tiger pounces on the MC and mauls them, then they are asked if they want to try again exit.
+
+room 4 doors: R Sword(x)/L Knife(/)
+clue: A bladed tool forged to cut, carried close for utility, yet lethal in single combat.
+death: Many swords fly toward the user skewering them, then they are asked if they want to try again or exit.
+
+room 5 doors: R Icons(/)/L Idols(x) 
+clue: Sacred imagery carved by hand, revered across eras, symbolizing truths beyond human eyes.
+death: A golden calf walks towards the user and generates heat that burns the MC, then they are asked if they want to try again or exit.
+
+Once the MC gets all the right doors and opens the right door at door 5 the pixie then tells them that only one person can actually leave, but the MC must choose who gets to escape or exit. 
+
+If MC chooses to let pixie out the pixie escapes and the door closes and the mc is forcibly and painfully gets turned into a pixie, then they are asked if they want to try again or exit.
+
+If MC chooses to escape themselves, the pixie will first try to make the MC reconsider subtly, if the MC still chooses to leave by themself the Pixie will get mad and curse at the MC, then they are asked if they want to try again or exit.
